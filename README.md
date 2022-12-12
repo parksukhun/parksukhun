@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 <p align="center">
-Studying<br><br>
+**Studying**<br><br>
 <img alt="Java" src="https://img.shields.io/badge/-Java-orange?logo=Oracle"/>
 <img alt="C" src="https://img.shields.io/badge/-C-%2300599C?logo=c"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=Python"/>
