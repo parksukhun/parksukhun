@@ -1,7 +1,7 @@
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=200&section=header&text=Hello!&fontSize=90&animation=fadeIn" />
 </p>
-### Hi there 👋
+안녕하세요! 반갑습니다! 👋
 
 <hr>
 <h3 align="center">Studying</h2>
