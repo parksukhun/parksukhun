@@ -35,5 +35,6 @@
  <p>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksukhun&count_bg=%2379C83D&title_bg=%2379C83D&icon=azurepipelines.svg&icon_color=%230D789E&title=hits&edge_flat=false"/></a>
 </p>
- 
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer"/>
 </div>
